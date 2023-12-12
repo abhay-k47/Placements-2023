@@ -1,0 +1,4 @@
+- Identify the **events**
+- Maintain the **active set**
+- Decide the **action** for each event
+- Edge cases: ordering of events may matter if multiple events occur at the same position (e.g. interval: $[a,b], [b,c]$)
