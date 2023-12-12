@@ -1,0 +1,5 @@
+- Basic I/O Mechanism: Hamacher's book, Chapter 3
+- Memory System: Hamacher's book, Chapter 8
+- Arithmetics: Hamacher's book, Chapter 9
+- Processor Design and Pipelining: Patterson's book, Chapter 4
+- Logic Design (Implementation Oriented): Patterson's book, Appendix B
