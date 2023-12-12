@@ -1,0 +1,1 @@
+This directory contains the solutions for the dynamic programming problems (A-Z) from Atcoder-DP contest.The problems are solved in the increasing order of difficulty. The solutions are written in C++.
